@@ -8,13 +8,13 @@ The following is a summary of the features that are currently available in **Fin
 - Asset Management
 - Token Management
 - NFT Management
-### Offcial release
+### Official release
 ​
 You can find the latest versions of the official managed releases on these links:
 - IOS app (Coming soon)
 - [Android app](https://play.google.com/store/apps/details?id=crypto.finwhale.wallet.sei&hl=en&gl=US) 
 ​
-For more information about FinWhale Wallet, visit our User guide.
+For more information about FinWhale Wallet, visit our [User guide](https://docs.finwhale.app/).
 ​
 ## 2. FinWhale community
 - Official website (Coming soon)
@@ -35,3 +35,5 @@ The guide has the following outline:
 - For more detail, please visit [Sei DApps Integration](https://docs.coin98.com/developer-guide/sei-dapps-integration) 
 ## 5. Documentations
 For comprehensive documentation, see [docs.finwhale.app](docs.finwhale.app)
+​
+​
